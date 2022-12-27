@@ -1,6 +1,11 @@
 # Fat Tailed Consulting
 
-Welcome to the official website of Fat Tailed Consulting, a software consulting business that specializes in providing scientific expertise to help clients work with big data. Our team of experienced developers and data scientists have a strong background in scientific research and are well-versed in a variety of programming languages and big data technologies.\n\nOn our website, you can learn more about the services we offer and how we can help your business succeed. From custom software development to data analysis and visualization, we have the skills and knowledge to help you achieve your goals.\n\nTake a look around our website to learn more about our team, our approach to software consulting, and the industries we serve. If you have any questions or would like to discuss a project, don't hesitate to contact us. We look forward to working with you!\n
+Welcome to the official website of Fat Tailed Consulting, a software consulting business that specializes in providing scientific expertise to help clients work with big data. Our team of experienced developers and data scientists have a strong background in scientific research and are well-versed in a variety of programming languages and big data technologies.  
+  
+On our website, you can learn more about the services we offer and how we can help your business succeed. From custom software development to data analysis and visualization, we have the skills and knowledge to help you achieve your goals.  
+  
+Take a look around our website to learn more about our team, our approach to software consulting, and the industries we serve. If you have any questions or would like to discuss a project, don't hesitate to contact us. We look forward to working with you!  
+
 
 [![Built with Cookiecutter Django](https://img.shields.io/badge/built%20with-Cookiecutter%20Django-ff69b4.svg?logo=cookiecutter)](https://github.com/cookiecutter/cookiecutter-django/)
 [![Black code style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
